@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(13, 18, 69);
+}
+.display{
+    margin: 12%;
+    width: 100%;
+}
+input{
+    height: 50px;
+}
+.display h1{
+    font-weight: 700;
+    color: white;
+}
+.display h1 span {
+    color: green;
+    border-bottom: 4px solid green;
+    padding-bottom: 5px;
+
+}
